@@ -1,0 +1,6 @@
+
+
+
+charCreationList = {}
+charToLoad = ""
+activeChar = ""
